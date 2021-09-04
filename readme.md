@@ -1,8 +1,6 @@
 amazon-search
 =============
 
-*2018. Tri A Irfan <triahmadirfan@gmail.com>*
-
 Search Amazon products through a neat CLI
 
 
